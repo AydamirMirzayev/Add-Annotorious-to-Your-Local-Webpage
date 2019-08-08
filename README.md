@@ -33,3 +33,6 @@ make sure to account for your image name.
 
 3.2 Now your txt file is ready, convert it back to the .html and click on it you should see the webpage
    
+FINALLY:
+
+You can use Annotorious.zip it this all is a bit too confusing!
