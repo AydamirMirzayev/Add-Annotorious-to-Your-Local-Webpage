@@ -1,6 +1,5 @@
 # Add-Annotorious-to-Your-Local-Webpage
 A quick guide on how to add Annotorious to your local webpage. 
-
 1. 
 Before adding Annotorious to your webpage you first need to create one. If you already have your webpage you can omit this step.
 1.1 To create the webpage to your project folder i.e whenever you want to store the files of this project and create a .txt file. 
@@ -24,11 +23,11 @@ your .txt file is.
 2.3 Pick an image of your choice and place it into your project folder as well, if you want to store the image elsewhere that is ok, you
 will just need to provide the full address of the image. 
 
-3. Add the final lines 
+3. 
+Add the final lines 
 3.1 open your .txt that you recently converted to .html (convert it back to .txt first) and insert these lines into it after  'title' :
 <link rel="stylesheet" href="annotorious-dark.css" />
-<script src="annotorious.min.js"></script>
-      
+<script src="annotorious.min.js"></script>   
 and this in 'body' 
 <img src="file:a.jpeg" class="annotatable">
 make sure to account for your image name. 
