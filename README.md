@@ -35,4 +35,4 @@ make sure to account for your image name.
    
 FINALLY:
 
-You can use Annotorious.zip it this all is a bit too confusing!
+You can use Annotorious.zip if this all is a bit too confusing!
