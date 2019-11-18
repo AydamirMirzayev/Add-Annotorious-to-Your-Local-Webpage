@@ -3,7 +3,7 @@ A quick guide on how to add Annotorious to your local webpage.
 
 1. 
 Before adding Annotorious to your webpage you first need to create one. If you already have your webpage you can omit this step.
-1.1 To create the webpage to your project folder i.e whenever you want to store the files of this project and create a .txt file. 
+1.1 To create the webpage, go to your project folder i.e wherever you want to store the files of this project and create a .txt file. 
 Omit special chracter in the name of the .txt file. 
 1.2 Open your txt file and paste the text provided in this link 
 https://www.codecademy.com/articles/local-web-page. This will be the main body of your webpage. Save and close the txt file and rename
